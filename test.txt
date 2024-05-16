@@ -1,1 +1,2 @@
 hello,baizhan
+你好,我是github用ssh协议新增的数据
